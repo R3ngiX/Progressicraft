@@ -1,0 +1,37 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Milticblock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.infinity_rpg.milticblock": "Mirtc Block",
+      "tile.milticblock.name": "Mirtc Block"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "infinity_rpg",
+    "modName": " infinity rpg",
+    "version": "1.0.0",
+    "author": "mimaf",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

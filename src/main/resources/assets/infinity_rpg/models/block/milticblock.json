@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "infinity_rpg:blocks/mirtic block",
+    "up": "infinity_rpg:blocks/mirtic block",
+    "north": "infinity_rpg:blocks/mirtic block",
+    "east": "infinity_rpg:blocks/mirtic block",
+    "south": "infinity_rpg:blocks/mirtic block",
+    "west": "infinity_rpg:blocks/mirtic block",
+    "particle": "infinity_rpg:blocks/mirtic block"
+  }
+}
